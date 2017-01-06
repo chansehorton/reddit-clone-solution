@@ -1,0 +1,16 @@
+{
+  "name": "reddit-clone-solution",
+  "version": "1.0.0",
+  "author": "Chanse Horton <snappish.dev@gmail.com>",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "angular": "1.6.0"
+  }
+}
